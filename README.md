@@ -1,6 +1,6 @@
 - Hi, I’m @jmrox2001
-- 🛠️ I’m interested in technology repair, PC building, and console emulation.
-- 🐍 I’m currently learning Python (2 Month In).
+- 🛠️ I’m interested in technology repair, PC building, and coding.
+- 🐍 I’m currently learning Python.
 
 
 📝 **Licensing**: Unless otherwise specified, all projects are licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as you see fit!
